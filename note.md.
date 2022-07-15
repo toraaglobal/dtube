@@ -1,0 +1,39 @@
+- Do you need to pay gass fees for all content upload?
+    Cost of content upload - gas fees 
+
+- Start with Dtube
+    Build a smart contract on solidity to enable hosting on etherium blockchain 
+
+- Dependencies
+    Etherium - decentralized application 
+        coins 
+            high gas fees - very expensive 
+            slow transation time 
+    Polygon - Etherium internet of bloackchains 
+    https://polygon.technology/
+        - salability 
+        - security 
+        - decentralized 
+        - low gas fess 
+        - faster 
+
+
+    
+    Truffle suite 
+    https://trufflesuite.com/
+        - Build a smart contract 
+
+    Ganache - test blockchain to test functionality before deploying to blockchain 
+    https://trufflesuite.com/ganache/
+
+    Metamask - browser extension for chrone 
+        - use to make transaction 
+        - Wallet 
+    
+
+
+    IPFS - Distributed file systems 
+    https://docs.ipfs.io/concepts/file-systems/#mutable-file-system-mfs
+
+    fleek - https://fleek.co/
+        - use ipfs in the backend 
